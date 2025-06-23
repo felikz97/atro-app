@@ -1,0 +1,10 @@
+
+npm install react react-dom
+npx astro add react
+npx astro add react
+npm install @tanstack/react-table
+npm install -D @types/react @types/react-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm install @astrojs/react react react-dom
+npm install @astrojs/react
